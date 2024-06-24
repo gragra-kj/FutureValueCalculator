@@ -25,7 +25,7 @@ public class Main {
                 monthlyRate=rate / MONTH /PERCENT;
                 break;
             }
-            System.out.println("Enter a value between 0 and 30");
+            System.out.println("Enter a value between 0 and 70");
         }
         while (true){
             System.out.print("Number of Years/Period: ");
